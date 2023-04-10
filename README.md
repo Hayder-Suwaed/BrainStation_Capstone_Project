@@ -1,9 +1,9 @@
 # BrainStation_Capstone_Project
 
-BrainStation Captone: MRI Segmentation with Deep Learning\br
-Author: Hayden Suwaed
-Email: haidersuwaed@gmail.com
-Date: April 10, 2023
+BrainStation Captone: MRI Segmentation with Deep Learning <br/>
+Author: Hayden Suwaed <br/>
+Email: haidersuwaed@gmail.com <br/>
+Date: April 10, 2023 <br/>
 Document in theis project include:
 * Deep Learning Environment Setup:
 1. Create the new empty environment named 'deeplearning'.
