@@ -1,6 +1,6 @@
 # BrainStation_Capstone_Project
 
-BrainStation Captone: MRI Segmentation with Deep Learning
+BrainStation Captone: MRI Segmentation with Deep Learning\br
 Author: Hayden Suwaed
 Email: haidersuwaed@gmail.com
 Date: April 10, 2023
