@@ -19,4 +19,5 @@ Document in theis project include:
 3. Hayden_Suwaed_FINE_TUNED_UNET.ipynb
 
 # Google drive link of the data used for this project:
-    - Dataset: https://drive.google.com/drive/folders/1xErqva88vTi4tQ1ALTQDyKUX-Rphgcuy
+* [Link](https://drive.google.com/drive/folders/1xErqva88vTi4tQ1ALTQDyKUX-Rphgcuy)
+      
