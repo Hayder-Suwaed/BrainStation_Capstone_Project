@@ -13,6 +13,7 @@ Document in theis project include:
 * Hayden_Suwaed_Capstone_Report.pdf - This is the final document that summarizes the report.
 * Hayden_Suwaed_Capstone_Presentation.pdf - This is the slides that presented to DataScience Cohort.
 
+
 # Models in order:
 1. Hayden_Suwaed_FPN.ipynb
 2. Hayden_Suwaed_TL_VGG16_UNET.ipynb
@@ -20,5 +21,4 @@ Document in theis project include:
 
 # Google drive link of the data used for this project:
 * [Link](https://drive.google.com/drive/folders/1nAu70XoU7Wln8nY1OC7zhfr7n5f0rYlf)
-      
       
